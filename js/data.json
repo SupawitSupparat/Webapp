@@ -1,0 +1,79 @@
+{
+    "theQuestion" : [
+    {
+        "question"  : "2 * 2 + 2 -2 / 2 = ? ",
+        "choices" :[ "1", "2","3","5"] ,
+        "answer" : "5"
+    },
+    {
+        "question"  : "HTML stands for?",
+        "choices" :[ "Hyper Text Markup Language", "High Text Markup Language","Hyper Tabular Markup Language","No Answer"] ,
+        "answer" : "Hyper Text Markup Language"
+    },
+    {
+        "question"  : "which of the following tag is used to mark a begining of paragraph ?",
+        "choices" :[ "ID", "br","P","a"] ,
+        "answer" : "P"
+    },
+    {
+        "question"  : "From which tag descriptive list starts ?",
+        "choices" :[ "LL", "DL","DD","LD"] ,
+        "answer" : "DL"
+    },
+    {
+        "question" : "Correct HTML tag for the largest heading is _____",
+        "choices" :[ "h1", "h3","h6","heading"] ,
+        "answer" : "h1"
+    },
+    {
+        "question"  : "CSS stands for?",
+        "choices" :[ "Common Style Sheets", "Cascading Sheets Style","Cascading Style Sheets","No Answer"] ,
+        "answer" : "Cascading Style Sheets"
+    },
+    {
+        "question"  : "Which song is Imagines Dragon Song ?",
+        "choices" :[ "Radioactive", "Wish you were here","Last december","Blank Space"] ,
+        "answer" : "Radioactive"
+    },
+    {
+        "question"  : "What is Pubg game stands for ?",
+        "choices" :[ "Player under battleground", "Player unknown battleground","Palying under battleground","No Answer"] ,
+        "answer" : "Player unknown battleground"
+    },
+    {
+        "question"  : "Who is the president of USA ?",
+        "choices" :[ "Barack obama", "Donald Trump","Vladimir putin","No Answer"] ,
+        "answer" : "Donald Trump"
+    },
+    {
+        "question"  : "Who is the founder of facebook ? " ,
+        "choices" :[ "Mark zuckerberg", "Bill gates","Jack ma","Prayut"] ,
+        "answer" : "Mark zuckerberg"
+    },
+    {
+        "question"  : "Who sing 'One more night' ? ",
+        "choices" :[ "Maroon 5", "Justin bieber","Justin timberlake","Eminem"] ,
+        "answer" : "Maroon 5"
+    },
+    {
+        "question"  : "What is the different between 5 and 2 ?",
+        "choices" :[ "1", "3","6","9"] ,
+        "answer" : "3"
+    },
+    {
+        "question"  : "5 + 5 = ?",
+        "choices" :[ "8", "9","10","11"] ,
+        "answer" : "11"
+    },
+    {
+        "question"  : "5 + 5 - 2 = ?",
+        "choices" :[ "8", "9","10","11"] ,
+        "answer" : "11"
+    },
+    {
+        "question"  : "5 + 5 - 2 * 2= ?",
+        "choices" :[ "6", "9","15","18"] ,
+        "answer" : "11"
+    }
+  ]
+}

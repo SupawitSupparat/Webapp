@@ -1,0 +1,93 @@
+
+#btn5 , #btn10,  #btn15{
+    border-radius: 50%;
+    background-color: darkgray;
+    border: 2px white;
+    font-size: 30px;
+    width: 100px;
+    position:relative;
+    top:50%; 
+    left:40%;
+}
+
+#btn1 ,#btn2, #btn3 , #btn4 {
+
+    border-radius: 50%;
+    background-color: 555555;
+    border: 2px white;
+    font-size: 30px;
+    width: 50%;
+    
+    position:relative;
+    top:50%; 
+    left:25%;
+    
+}
+body{
+    background-color: lightblue;
+    position: relative;
+    left: 600;
+
+    /* background-image:url('images/menu.jpg');
+    background-repeat: repeat-x; */
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif; 
+    position:relative;
+    top:50%; 
+    left:45%;
+    font-size: 40px;
+
+}
+
+#numq {
+    position:relative;
+    top:50%; 
+    left:43%;
+    font-size: 30px;
+}
+
+p{
+    position:relative;
+    top:50%; 
+    left:43%;
+    font-size: 20px;
+}
+
+#timer {
+    position: absolute;
+    top: 0px;
+    width: 200px;
+    left: 1460px;
+    height: 100px;
+
+}
+
+#timer1{
+    position: absolute;
+    top: 0px;
+    width: 200px;
+    left: 1400px;
+    height: 100px;
+}
+
+#answer{
+    position:relative;
+    top:50%; 
+    left:48%;
+}
+
+#currentQuestion{
+    position:relative;
+    top:50%; 
+    left:47%;
+}
+#score{
+    position: absolute;
+    top: 0px;
+    width: 200px;
+    left: 0;
+    height: 100px;
+    font-size: 30px;
+}

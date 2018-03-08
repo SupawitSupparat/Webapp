@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Title</title>
+  </head>
+
+  <body>
+    <h1>Quiz War</h1>
+
+    <div>
+      <p id = 'numq'>Number of question</p>
+      <button onclick ="startGame(5)" id = 'btn5'>5</button>
+      <button onclick ="startGame(10)" id = 'btn10'>10</button>
+      <button onclick ="startGame(15)" id = 'btn15'>15</button>
+    </div>
+
+    <div id ='time'>
+    <p id = 'timer1'>Timer: <p id = 'timer'>30</p></p>
+    </div>
+  <div>
+    <p id = 'currentQuestion'>Question</p>
+    <p id = 'question'>Question</p>
+  </div>
+
+    <div>
+      <button onclick = "answer(1)" id = 'btn1'>Choice1</button>
+      <button onclick = "answer(2)" id = 'btn2'>Choice2</button>
+      <button onclick = "answer(3)" id = 'btn3'>Choice3</button>
+      <button onclick = "answer(4)" id = 'btn4'>Choice4</button>
+    </div>
+
+    <div>
+      <p id = 'answer'> </p>
+      <p id = 'score'>Score : </p>
+      <p id = 'alltime'> </p>
+      <p id = 'averagetime'> </p>
+    </div>
+    <script type = "text/javascript" src="js/index.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  </body>
+</html>
